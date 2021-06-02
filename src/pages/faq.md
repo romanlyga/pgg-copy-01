@@ -4,7 +4,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/nan_talk.jpg
+    background_image: images/header.jpg
     headline: Behold our FAQ
     subtitle: >-
       All right, friends. Let’s do this. This section will cover basic,
