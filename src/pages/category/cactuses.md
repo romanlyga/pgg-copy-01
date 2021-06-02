@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Cac
 order: 2
 seo:
   title: Cactuses
