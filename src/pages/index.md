@@ -70,7 +70,7 @@ sections:
 
       **dolor sit amet**
     actions:
-      - title: lorem-ipsum
+      - title: test
         url: '#'
         style: primary
         arrow: false
