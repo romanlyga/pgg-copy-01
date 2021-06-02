@@ -1,5 +1,5 @@
 ---
-title: Big здфтеі
+title: Big
 order: 1
 seo:
   title: Big plants
