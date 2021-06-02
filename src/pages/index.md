@@ -69,7 +69,12 @@ sections:
 
 
       **dolor sit amet**
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
+        arrow: false
+        type: action
     type: hero_section
     background_image: images/header.jpg
   - type: promotion_section
