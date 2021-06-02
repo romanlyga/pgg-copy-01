@@ -57,17 +57,18 @@ sections:
           recruits.
   - section_id: lorem-ipsum
     background_image_opacity: 0
-    content: >-
-      ## Lorem ipsum
+    content: >
+      # Lorem ipsum
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      ## Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      ### Lorem ipsum
 
-      - dolor sit amet
+
+      **dolor sit amet**
     actions: []
     type: hero_section
     background_image: images/header.jpg
