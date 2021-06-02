@@ -70,6 +70,7 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
+    background_image: images/header.jpg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
